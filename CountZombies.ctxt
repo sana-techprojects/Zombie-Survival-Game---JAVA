@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CountZombies
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CountZombies\ here.\r\n\ \r\n\ The\ CountZombies\ class\ represents\ an\ actor\ that\ keeps\ track\ of\ the\ game's\ score,\ money,\ and\ time.\r\n\ It\ extends\ the\ Actor\ class.\r\n\ \r\n\ The\ CountZombies\ actor\ displays\ the\ current\ score,\ cash,\ and\ time\ as\ a\ text\ image.\r\n\ It\ provides\ methods\ for\ adding\ points\ to\ the\ score,\ and\ getters\ for\ accessing\ the\ current\ score,\ cash,\ and\ time.\r\n\ \r\n\ The\ class\ contains\ a\ static\ score\ variable\ to\ keep\ track\ of\ the\ score,\ money,\ and\ time.\r\n\ The\ act()\ method\ updates\ the\ text\ image\ with\ the\ current\ values\ of\ score,\ cash,\ and\ time.\r\n\ \r\n\ Author\:\ (your\ name)\r\n\ Version\:\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=CountZombies()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CountZombies.\r\n\ Initializes\ the\ CountZombies\ actor\ and\ sets\ its\ initial\ text\ image.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Updates\ the\ current\ score,\ cash,\ and\ time\ values\ and\ updates\ the\ text\ image\ accordingly.\r\n
+comment3.params=points
+comment3.target=void\ addPoints(int)
+comment3.text=\r\n\ Adds\ the\ specified\ points\ to\ the\ score.\r\n\ If\ the\ points\ value\ is\ greater\ than\ 0,\ the\ score\ is\ updated.\r\n\ \r\n\ @param\ points\ The\ points\ to\ add\ to\ the\ score.\r\n
+comment4.params=
+comment4.target=int\ getScore()
+comment4.text=\r\n\ Gets\ the\ current\ score.\r\n\ \r\n\ @return\ The\ current\ score.\r\n
+comment5.params=
+comment5.target=int\ getMoney()
+comment5.text=\r\n\ Gets\ the\ current\ amount\ of\ money.\r\n\ \r\n\ @return\ The\ current\ amount\ of\ money.\r\n
+comment6.params=
+comment6.target=int\ getTime()
+comment6.text=\r\n\ Gets\ the\ current\ time.\r\n\ \r\n\ @return\ The\ current\ time.\r\n
+numComments=7

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=HealthBar
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ HealthBar\ here.\r\n\ \r\n\ The\ HealthBar\ class\ represents\ an\ actor\ that\ displays\ the\ health\ of\ the\ player.\r\n\ It\ extends\ the\ Actor\ class.\r\n\ \r\n\ The\ HealthBar\ actor\ has\ a\ health\ value\ and\ different\ colors\ to\ represent\ different\ health\ levels.\r\n\ The\ act()\ method\ updates\ the\ HealthBar's\ appearance\ based\ on\ the\ current\ health\ value.\r\n\ \r\n\ Author\:\ (your\ name)\r\n\ Version\:\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=HealthBar()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ HealthBar.\r\n\ Initializes\ the\ HealthBar\ actor\ and\ sets\ its\ initial\ appearance.\r\n
+comment2.params=
+comment2.target=void\ started()
+comment2.text=\r\n\ Called\ when\ the\ HealthBar\ actor\ is\ added\ to\ the\ world.\r\n\ Resumes\ playing\ the\ game\ music.\r\n
+comment3.params=
+comment3.target=void\ stopped()
+comment3.text=\r\n\ Called\ when\ the\ HealthBar\ actor\ is\ removed\ from\ the\ world.\r\n\ Pauses\ the\ game\ music.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Updates\ the\ HealthBar's\ appearance\ and\ handles\ losing\ health.\r\n
+comment5.params=
+comment5.target=void\ loseHealth()
+comment5.text=\r\n\ Decreases\ the\ health\ when\ the\ player\ is\ hit\ by\ a\ zombie.\r\n\ Stops\ the\ game\ music\ and\ switches\ to\ the\ HighScoreWorld\ when\ health\ reaches\ 0\ or\ below.\r\n
+numComments=6

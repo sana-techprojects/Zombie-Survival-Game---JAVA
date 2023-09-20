@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=UpgradesInfoButton
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ UpgradesInfoButton\ here.\r\n\ \r\n\ The\ UpgradesInfoButton\ class\ represents\ a\ button\ to\ access\ the\ upgrades\ information.\r\n\ It\ extends\ the\ Actor\ class.\r\n\ \r\n\ Author\:\ (your\ name)\r\n\ Version\:\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=UpgradesInfoButton()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ UpgradesInfoButton.\r\n\ Initializes\ the\ UpgradesInfoButton\ actor\ and\ sets\ its\ initial\ image.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ It\ is\ used\ to\ update\ the\ UpgradesInfoButton\ actor.\r\n
+numComments=3

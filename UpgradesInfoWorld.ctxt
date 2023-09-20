@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=UpgradesInfoWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ UpgradesInfoWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=UpgradesInfoWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ UpgradesInfoWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ stopped()
+comment2.text=\r\n\ This\ method\ is\ called\ when\ the\ world\ is\ stopped.\r\n\ It\ calls\ the\ stopped()\ method\ of\ the\ PlayButton.\r\n
+comment3.params=
+comment3.target=void\ started()
+comment3.text=\r\n\ This\ method\ is\ called\ when\ the\ world\ is\ started.\r\n\ It\ calls\ the\ started()\ method\ of\ the\ PlayButton.\r\n
+comment4.params=
+comment4.target=void\ addHomeButton()
+comment4.text=\r\n\ This\ method\ adds\ the\ HomeButton\ to\ the\ world.\r\n\ It\ creates\ an\ instance\ of\ HomeButton\ and\ adds\ it\ to\ the\ world.\r\n
+comment5.params=
+comment5.target=void\ addUpgradesInfoPopUp()
+comment5.text=\r\n\ This\ method\ adds\ the\ UpgradesPopUp\ to\ the\ world.\r\n\ It\ creates\ an\ instance\ of\ UpgradesPopUp\ and\ adds\ it\ to\ the\ world.\r\n
+numComments=6

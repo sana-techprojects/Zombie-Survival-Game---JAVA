@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=HighScoreWorld
+comment0.text=\r\n\ The\ HighScoreWorld\ class\ represents\ the\ world\ where\ high\ scores\ are\ displayed.\r\n\ It\ extends\ the\ World\ class.\r\n\ \r\n\ The\ class\ is\ responsible\ for\ adding\ and\ managing\ objects\ in\ the\ world.\r\n\ \r\n\ The\ HighScoreWorld\ class\ contains\ a\ HomeButton\ object,\ a\ HighScore\ object,\ and\ multiple\ ZombieHighScore\ objects.\r\n\ It\ also\ has\ HighScoreResults\ and\ TimeResults\ objects\ for\ displaying\ high\ score\ results.\r\n\ The\ background\ image\ is\ set\ and\ scaled\ accordingly.\r\n\ \r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=HighScoreWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ HighScoreWorld.\r\n\ It\ creates\ a\ new\ world\ with\ 1000x600\ cells\ and\ sets\ the\ background\ image.\r\n
+comment2.params=
+comment2.target=void\ started()
+comment2.text=\r\n\ Called\ when\ the\ world\ can\ start\ the\ background\ music.\r\n\ It\ calls\ the\ started()\ method\ of\ the\ HighScore\ object.\r\n
+comment3.params=
+comment3.target=void\ stopped()
+comment3.text=\r\n\ Called\ when\ the\ world\ can\ stop/\ pause\ the\ background\ music.\r\n\ It\ calls\ the\ stopped()\ method\ of\ the\ HighScore\ object.\r\n
+comment4.params=
+comment4.target=void\ addHomeButton()
+comment4.text=\r\n\ Adds\ the\ HomeButton\ object\ to\ the\ world.\r\n
+comment5.params=
+comment5.target=void\ addHighScore()
+comment5.text=\r\n\ Adds\ the\ HighScore\ object\ to\ the\ world.\r\n
+numComments=6

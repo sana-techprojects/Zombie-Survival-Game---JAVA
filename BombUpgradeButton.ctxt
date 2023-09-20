@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BombUpgradeButton
+comment0.text=\r\n\ The\ BombUpgradeButton\ class\ represents\ an\ actor\ that\ serves\ as\ a\ button\ for\ upgrading\ the\ bomb\ weapon.\r\n\ It\ extends\ the\ Actor\ class.\r\n\ \r\n\ The\ BombUpgradeButton\ can\ perform\ actions\ such\ as\ playing\ a\ bomb\ sound,\ creating\ a\ bomb\ explosion\ animation,\r\n\ and\ removing\ all\ zombie\ actors\ from\ the\ world.\r\n\ \r\n\ The\ class\ contains\ a\ reference\ to\ the\ CountZombies\ object\ for\ tracking\ the\ game's\ zombie\ count.\r\n\ The\ bombSound\ stores\ the\ sound\ effect\ for\ the\ bomb\ explosion.\r\n\ \r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=counter
+comment1.target=BombUpgradeButton(CountZombies)
+comment1.text=\r\n\ Constructor\ for\ the\ BombUpgradeButton\ class.\r\n\ \r\n\ @param\ counter\ The\ CountZombies\ object\ for\ tracking\ the\ zombie\ count.\r\n
+comment2.params=
+comment2.target=void\ addBombExplosion()
+comment2.text=\r\n\ Adds\ a\ bomb\ explosion\ animation\ to\ the\ world.\r\n
+comment3.params=
+comment3.target=void\ bombZombies()
+comment3.text=\r\n\ Removes\ all\ zombie\ actors\ from\ the\ world.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ The\ act()\ method\ is\ called\ on\ every\ act\ cycle.\r\n\ It\ handles\ the\ mouse\ press\ event\ on\ the\ button,\ plays\ the\ bomb\ sound\ effect,\r\n\ creates\ the\ bomb\ explosion\ animation,\ subtracts\ money\ from\ the\ counter,\ and\ removes\ zombies.\r\n
+numComments=5

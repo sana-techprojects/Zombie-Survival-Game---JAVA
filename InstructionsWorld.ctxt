@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=InstructionsWorld
+comment0.text=\r\n\ \r\n\ This\ class\ represents\ the\ world\ where\ instructions\ are\ displayed.\r\n\ It\ extends\ the\ Greenfoot\ class\ 'World'.\r\n\ \r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=InstructionsWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ InstructionsWorld.\r\n\ \r\n\ This\ constructor\ initializes\ the\ world\ and\ sets\ its\ dimensions.\r\n\ It\ also\ sets\ the\ background\ image\ and\ adds\ the\ instructions\ popup\ and\ home\ button.\r\n
+comment2.params=
+comment2.target=void\ stopped()
+comment2.text=\r\n\ This\ method\ is\ called\ when\ the\ world\ is\ stopped.\r\n\ It\ calls\ the\ stopped()\ method\ of\ the\ play\ button\ instance.\r\n
+comment3.params=
+comment3.target=void\ started()
+comment3.text=\r\n\ This\ method\ is\ called\ when\ the\ world\ is\ started.\r\n\ It\ calls\ the\ started()\ method\ of\ the\ play\ button\ instance.\r\n
+comment4.params=
+comment4.target=void\ addHomeButton()
+comment4.text=\r\n\ This\ method\ adds\ the\ home\ button\ to\ the\ world.\r\n\ It\ creates\ a\ new\ instance\ of\ the\ home\ button\ and\ sets\ its\ position.\r\n
+comment5.params=
+comment5.target=void\ addInstructionsPopUp()
+comment5.text=\r\n\ This\ method\ adds\ the\ instructions\ popup\ to\ the\ world.\r\n\ It\ creates\ a\ new\ instance\ of\ the\ instructions\ popup\ and\ sets\ its\ position\ at\ the\ center\ of\ the\ world.\r\n
+numComments=6

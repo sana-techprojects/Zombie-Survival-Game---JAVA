@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player\ here.\r\n\ \r\n\ The\ Player\ class\ represents\ the\ player-controlled\ character\ in\ the\ game.\r\n\ It\ extends\ the\ Actor\ class.\r\n\ \r\n\ Author\:\ (your\ name)\r\n\ Version\:\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player.\r\n\ Initializes\ the\ Player\ actor\ and\ sets\ its\ initial\ image.\r\n
+comment2.params=weaponButton
+comment2.target=Player(ShooterPackUpgrade)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player\ with\ a\ weapon\ button\ reference.\r\n\ Initializes\ the\ Player\ actor\ and\ sets\ its\ initial\ image\ and\ assigns\ the\ weapon\ button\ reference.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ It\ is\ used\ to\ update\ the\ Player\ actor.\r\n
+comment4.params=
+comment4.target=void\ turnAround()
+comment4.text=\r\n\ Turn\ the\ player\ towards\ the\ mouse\ position.\r\n
+comment5.params=
+comment5.target=void\ moveAround()
+comment5.text=\r\n\ Move\ the\ player\ in\ response\ to\ key\ presses.\r\n
+comment6.params=
+comment6.target=void\ fireProjectile()
+comment6.text=\r\n\ Fire\ projectiles\ based\ on\ the\ weapon\ button\ upgrade\ level.\r\n
+comment7.params=
+comment7.target=boolean\ zombieHit()
+comment7.text=\r\n\ Check\ if\ the\ player\ is\ touching\ a\ zombie.\r\n\ Returns\ true\ if\ touching\ a\ zombie,\ false\ otherwise.\r\n
+numComments=8
